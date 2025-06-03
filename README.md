@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm James!</h1>
-<h3 align="center">A full-stack developer</h3>
+<h3 align="center">Innovative and results-driven web developer with 1.5 years of experience in building responsive, user-focused applications. Proficient in both front-end and back-end technologies, with a strong ability to deliver dynamic digital experiences. A collaborative team player who thrives in fast-paced environments and is committed to continuous learning and professional growth.</h3>
 
-- 💬 Ask me about **React.js, Node.js,**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jameysu&label=Profile%20views&color=0e75b6&style=flat" alt="jameysu" /> </p>
 
 - 📫 How to reach me **cansadojamesmichael40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/jm.cansado.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jm.cansado.1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
