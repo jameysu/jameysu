@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm James!</h1>
 <h3 align="center">A full stack(React.js and Node.js) developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jameysu&label=Profile%20views&color=0e75b6&style=flat" alt="jameysu" /> </p>
-
 - 📫 How to reach me **cansadojamesmichael40@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
